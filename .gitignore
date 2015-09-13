@@ -11,3 +11,7 @@ desktop.ini
 update/
 build/
 target/
+
+.idea
+*.iml
+out
